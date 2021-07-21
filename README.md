@@ -5,3 +5,5 @@
 form 태그 요소 : https://webdir.tistory.com/318
 
 그리드 정리 : https://studiomeal.com/archives/533
+
+vue를 이용한 레이아웃 : https://code-machina.github.io/2019/02/17/Vuetify-Layout-Part-1.html
